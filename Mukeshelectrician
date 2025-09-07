@@ -1,0 +1,165 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mukesh Electrician | Electrician in Jaipur, Ramnagariya Jagatpura</title>
+  <meta name="description" content="Fast, reliable electrician services in Ramnagariya, Jagatpura, Jaipur. Call +91 98879 80556 or WhatsApp +91 70147 03371." />
+  <meta name="theme-color" content="#0ea5e9" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0b1220; --card:#0f172a; --muted:#94a3b8; --brand:#0ea5e9; --brand-2:#22d3ee; --ok:#22c55e; --warn:#f59e0b; --white:#ffffff;
+      --radius:18px;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0}
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif; color:var(--white); background: radial-gradient(1200px 600px at 80% -10%, rgba(34,211,238,.12), transparent 60%),
+    radial-gradient(1200px 600px at 10% 110%, rgba(14,165,233,.18), transparent 60%), var(--bg);}
+    a{color:inherit; text-decoration:none}
+    .container{max-width:1100px;margin:0 auto;padding:20px}
+    header{position:sticky;top:0;backdrop-filter: blur(6px);background:rgba(11,18,32,.6);border-bottom:1px solid rgba(148,163,184,.15);z-index:50}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:800}
+    .logo{height:40px;width:40px;border-radius:12px;background:conic-gradient(from 180deg at 50% 50%, var(--brand), var(--brand-2));display:grid;place-items:center;color:#001825;font-weight:800}
+    .nav-cta{display:flex;gap:10px;flex-wrap:wrap}
+    .btn{padding:12px 16px;border-radius:14px;border:1px solid rgba(148,163,184,.25);background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02)); color:var(--white); font-weight:600; transition:.2s; display:inline-flex;align-items:center;gap:10px}
+    .btn:hover{transform:translateY(-1px); border-color:rgba(255,255,255,.45)}
+    .btn.primary{background:linear-gradient(180deg, rgba(34,211,238,.22), rgba(14,165,233,.2)); border-color:rgba(34,211,238,.45)}
+    .hero{padding:56px 0 28px}
+    .grid{display:grid;grid-template-columns:1.2fr .8fr;gap:24px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02)); border:1px solid rgba(148,163,184,.2); border-radius:var(--radius); padding:22px}
+    .badge{display:inline-flex;gap:8px;align-items:center;background:rgba(34,211,238,.15); color:#cffafe; border:1px solid rgba(34,211,238,.35); padding:8px 12px; border-radius:999px; font-weight:600}
+    h1{font-size:clamp(28px, 4.2vw, 44px); line-height:1.1; margin:16px 0}
+    .muted{color:var(--muted)}
+    .points{display:grid;gap:10px;margin:14px 0}
+    .pill{display:inline-flex;align-items:center;gap:10px;background:rgba(148,163,184,.12);border:1px solid rgba(148,163,184,.25);padding:10px 12px;border-radius:999px}
+    .services{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px}
+    .service{padding:16px;border-radius:16px;border:1px solid rgba(148,163,184,.2);background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01))}
+    .cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
+    .footer{margin:28px 0 14px;color:var(--muted);text-align:center}
+    .split{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+    .contact-box a{display:flex;align-items:center;gap:10px;padding:12px;border-radius:12px;border:1px solid rgba(148,163,184,.25)}
+    .map{border:0;width:100%;height:280px;border-radius:16px}
+    @media (max-width: 860px){
+      .grid,.split{grid-template-columns:1fr}
+      .services{grid-template-columns:1fr 1fr}
+    }
+    @media (max-width: 520px){
+      .services{grid-template-columns:1fr}
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Electrician",
+    "name": "Mukesh Electrician",
+    "image": "",
+    "telephone": "+919887980556",
+    "areaServed": "Jaipur",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "A24, Shivam Nagar, Kesh Vihar, Ramnagariya, Jagatpura",
+      "addressLocality": "Jaipur",
+      "addressRegion": "Rajasthan",
+      "postalCode": "302017",
+      "addressCountry": "IN"
+    },
+    "sameAs": []
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <div class="brand">
+        <div class="logo">⚡</div>
+        <div>
+          <div style="font-size:18px">Mukesh Electrician</div>
+          <div class="muted" style="font-size:12px">Ramnagariya · Jagatpura · Jaipur</div>
+        </div>
+      </div>
+      <div class="nav-cta">
+        <a class="btn" href="tel:+919887980556">📞 Call</a>
+        <a class="btn primary" href="https://wa.me/917014703371" target="_blank" rel="noopener">💬 WhatsApp</a>
+      </div>
+    </div>
+  </header>  <main class="container hero">
+    <div class="grid">
+      <section class="card">
+        <span class="badge">⚡ तेज़ & विश्वसनीय / Fast & Reliable</span>
+        <h1>घर और ऑफिस के लिए भरोसेमंद इलेक्ट्रीशियन — <span style="color:#67e8f9">Mukesh</span></h1>
+        <p class="muted">Ramnagariya, Jagatpura, Jaipur में ऑन-कॉल सर्विस। नए वायरिंग से लेकर MCB, फैन, लाइट, गीजर इंस्टॉलेशन और फॉल्ट रिपेयर—सब कुछ।</p>
+        <div class="points">
+          <div class="pill">✅ Same‑day visit (subject to availability)</div>
+          <div class="pill">🔧 New wiring, switches, MCB & earthing</div>
+          <div class="pill">🛠️ Fan, Light, Geyser, RO, Oven fitting</div>
+          <div class="pill">🧰 Short‑circuit & fault repair</div>
+        </div>
+        <div class="cta-row">
+          <a class="btn primary" href="tel:+919887980556">📞 अभी कॉल करें / Call Now</a>
+          <a class="btn" href="https://wa.me/917014703371?text=Hi%20Mukesh%2C%20I%20need%20an%20electrician%20service" target="_blank" rel="noopener">💬 WhatsApp Message</a>
+        </div>
+      </section><aside class="card">
+    <h2 style="margin:0 0 10px;font-size:22px">संपर्क / Contact</h2>
+    <div class="split contact-box">
+      <a href="tel:+919887980556">📱 <strong>Mobile:</strong> +91 98879 80556</a>
+      <a href="https://wa.me/917014703371" target="_blank" rel="noopener">🟢 <strong>WhatsApp:</strong> +91 70147 03371</a>
+    </div>
+    <div style="height:10px"></div>
+    <div class="split contact-box">
+      <a href="https://maps.google.com/?q=A24%20Shivam%20Nagar%20Kesh%20Vihar%20Ramnagariya%20Jagatpura%20Jaipur%20302017" target="_blank" rel="noopener">📍 A24, Shivam Nagar, Kesh Vihar, Ramnagariya, Jagatpura, Jaipur 302017</a>
+      <a href="#services">🧾 View Services</a>
+    </div>
+    <div style="height:14px"></div>
+    <iframe class="map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps?q=A24%20Shivam%20Nagar%20Kesh%20Vihar%20Ramnagariya%20Jagatpura%20Jaipur%20302017&output=embed"></iframe>
+  </aside>
+</div>
+
+<section id="services" class="card" style="margin-top:16px">
+  <h2 style="margin:0 0 12px;font-size:24px">सेवाएँ / Services</h2>
+  <div class="services">
+    <div class="service">🏠 <strong>Home Wiring</strong><br><span class="muted">New/old wiring, earthing, DB work</span></div>
+    <div class="service">💡 <strong>Lights & Fans</strong><br><span class="muted">LED, panel lights, ceiling/EXH fans</span></div>
+    <div class="service">🧯 <strong>MCB & Safety</strong><br><span class="muted">MCB/RCCB install, overload fix</span></div>
+    <div class="service">⚙️ <strong>Appliance Fitting</strong><br><span class="muted">Geyser, RO, Oven, Chimney</span></div>
+    <div class="service">🔌 <strong>Sockets & Switches</strong><br><span class="muted">Modular boards, replacements</span></div>
+    <div class="service">🛠️ <strong>Fault Repair</strong><br><span class="muted">Short‑circuit, sparking, tripping</span></div>
+  </div>
+  <div class="cta-row">
+    <a class="btn primary" href="tel:+919887980556">📞 Book a Visit</a>
+    <a class="btn" href="https://wa.me/917014703371?text=Need%20a%20service%20visit" target="_blank" rel="noopener">💬 Chat on WhatsApp</a>
+  </div>
+</section>
+
+<section class="card" style="margin-top:16px">
+  <h2 style="margin:0 0 10px;font-size:22px">क्यों चुनें हमें? / Why Choose Us</h2>
+  <ul class="muted" style="line-height:1.8">
+    <li>Local expert in Ramnagariya, Jagatpura</li>
+    <li>Upfront pricing, neat & safe work</li>
+    <li>गैरंटी के साथ काम / Work with guarantee</li>
+    <li>On‑time arrival & quick resolution</li>
+  </ul>
+</section>
+
+<section class="card" style="margin-top:16px">
+  <h2 style="margin:0 0 8px;font-size:22px">FAQs</h2>
+  <details><summary>क्या आप उसी दिन विज़िट कर सकते हैं? / Same‑day visit?</summary>
+    <p class="muted">हाँ, उपलब्धता पर निर्भर करता है। कॉल/व्हाट्सएप पर समय पक्का कर लें।</p>
+  </details>
+  <details><summary>क्या घर/ऑफिस दोनों के लिए सर्विस है?</summary>
+    <p class="muted">जी हाँ, दोनों के लिए।</p>
+  </details>
+  <details><summary>पेमेंट कैसे करें?</summary>
+    <p class="muted">Cash/UPI स्वीकार्य।</p>
+  </details>
+</section>
+
+  </main>  <footer class="footer container">
+    © <span id="year"></span> Mukesh Electrician · Jaipur · <a href="tel:+919887980556">+91 98879 80556</a>
+  </footer>  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script></body>
+</html>
