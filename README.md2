@@ -1,0 +1,39 @@
+# Mukesh Electrician Website
+
+This is a simple one-page responsive website for **Mukesh Electrician**, located in Ramnagariya, Jagatpura, Jaipur.  
+The site provides service details, contact options, and a gallery showcasing work in **electrical, AC repair, and plumbing**.
+
+---
+
+## 🚀 Features
+- Responsive one-page design (mobile-friendly)
+- Owner photo section
+- Service list (Electrical, AC Repair, Plumbing)
+- Work gallery with lightbox preview
+- Call and WhatsApp buttons for instant contact
+- Location & contact details
+
+---
+
+## 📂 Project Structure---
+
+## 📸 Setup Instructions
+1. Save your **owner photo** as `owner.jpg`.
+2. Add all service-related pictures in the `images/` folder.
+3. Open `index.html` in any browser to view the website.
+
+---
+
+## 🌐 Deployment
+You can host this website for free using:
+- [Netlify](https://www.netlify.com/) → Drag & drop the folder  
+- [GitHub Pages](https://pages.github.com/) → Push repo and enable Pages  
+- Any custom hosting provider (Hostinger, GoDaddy, etc.)
+
+---
+
+## 📞 Contact
+**Mukesh Electrician**  
+📍 Ramnagariya, Jagatpura, Jaipur, Rajasthan  
+📱 Mobile: +91 9887980556  
+💬 WhatsApp: +91 7014703371
